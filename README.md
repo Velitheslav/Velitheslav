@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Velitheslav
 - 👀 I’m interested in Software engineering, Cars,Mechanics, Robotics, Repairing
-- 🌱 I’m currently learning C#, C++, JAVA, HTML, CSS, JS, Node.JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 200172@studierende.htl-donaustadt.at
+- 🌱 I’m propably inventing something rn
+- 📫 How to reach me instagram velis_repairshop
 
 <!---
 Velitheslav/Velitheslav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
